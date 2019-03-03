@@ -34,6 +34,21 @@ making
 
 
 
+
+2.   Case 2: Diabetic Retinopathy Analysis
+
+
+> This case study aims for objectives as following
+- Learn to use convolution neural networks to classify medical images
+- Use keras’ neural networks to make an expert system to support in Diaberic Retinopathy analysis
+- Learn to understand the basic nature of Convolution Neural Network and gain knowledge to adjust parameters to make the most accurate model
+- Learn how to preprocess the image dataset which completely different from the previous case study
+- Learn to perform Image Augmentation like crop and resize images
+- Learn to test model architectures (number of filters, filter size, activation functions) and training settings (epochs, batch sizes, validation splits)
+- Learn to document the results clearly and in easily readable format
+- Learn to perform methods to improve accuracy of model. For example, image augmentation, balancing dataset, drop out, etc
+- Learn to use pretrained model from Keras applications like Xception, VGG16, InceptionV3, and InceptionResNetV2
+
 ---
 
 
