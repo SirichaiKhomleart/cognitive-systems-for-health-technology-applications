@@ -7,7 +7,7 @@
 
 
 <br>**Cognitive Systems for Health Technology (TX00DG16)**
-<br>**Helsinki Metropolia University of Applied Sciences**
+<br>**Metropolia University of Applied Sciences**
 
 Cognitive systems for health technology is a freely selectable course provided for the 3rd year Bachelor of Information Technology Degree Programme students at Helsinki Metropolia University of Applied Sciences. The aim of this repository is to collect materials and links related to this course.
 
@@ -48,6 +48,22 @@ making
 - Learn to document the results clearly and in easily readable format
 - Learn to perform methods to improve accuracy of model. For example, image augmentation, balancing dataset, drop out, etc
 - Learn to use pretrained model from Keras applications like Xception, VGG16, InceptionV3, and InceptionResNetV2
+
+
+
+
+3.   Case 3: Patient Drug Review
+
+
+> This case study aims for objectives as following
+- Learn to build a model for classification texts and documents 
+- Use Keras’ neural networks and other models to make an expert system to support doctors and pharmacists in order to analyze drug reviews.
+- Understand the nature of models used to train with text data, including Conv1D, LSTM, GRU, etc.
+- Understand how to preprocess text data input using different techniques.
+- Learn about word stemming technque to find the root word to be used in this experiment study.
+- Learn to test model architectures (number of filters, filter size, activation functions) and training settings (epochs, batch sizes, validation splits).
+- Learn to make the documentation of the results clearly and in easily readable format.
+- Learn to perform methods to improve accuracy of models. For example, regularization, drop out, etc.
 
 ---
 
