@@ -35,7 +35,7 @@ making
 
 
 
-2.   Case 2: Diabetic Retinopathy Analysis
+<br>2.   Case 2: Diabetic Retinopathy Analysis
 
 
 > This case study aims for objectives as following
@@ -52,7 +52,7 @@ making
 
 
 
-3.   Case 3: Patient Drug Review
+<br>3.   Case 3: Patient Drug Review
 
 
 > This case study aims for objectives as following
